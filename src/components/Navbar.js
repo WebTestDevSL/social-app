@@ -8,9 +8,9 @@ function Navbar() {
     <div className="Navbar mx-auto bg-indigo-100 p-5">
       <nav className="flex justify-between px-10">
         <div className="flex flex-row">
-          <a className="pr-5" href="#">
+          <p className="pr-5" href="#">
             Logo
-          </a>
+          </p>
           <form>
             <input type="text" name="text" autoComplete="off" size="30" />
           </form>
