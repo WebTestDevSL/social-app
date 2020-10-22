@@ -1,0 +1,8 @@
+.Navbar a {
+  font-size: large;
+}
+
+.Navbar .react-icons {
+  font-size: 1.3em;
+  vertical-align: middle;
+}
